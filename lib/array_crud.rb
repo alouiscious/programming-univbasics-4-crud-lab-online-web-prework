@@ -8,7 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  (Array, "monkey").push
+  Array.push = ("Soul")
+  # (Array, "monkey").push
 end
 
 def add_element_to_start_of_array(array, element)
