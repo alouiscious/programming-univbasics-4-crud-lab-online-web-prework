@@ -7,7 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  an_array(add_to_end, "puppy")
+  (array, "puppy")
 
 end
 
