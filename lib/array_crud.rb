@@ -7,16 +7,16 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  (push, "puppy")
+  # (push, "puppy")
 
 end
 
 def add_element_to_start_of_array(array, element)
-  add_to_start.unshift = "puppy"
+  # add_to_start.unshift = "puppy"
 end
 
 def remove_element_from_end_of_array(array)
-  remv_from_end.pop = "holiday"
+  # remv_from_end.pop = "holiday"
 end
 
 def remove_element_from_start_of_array(array)
