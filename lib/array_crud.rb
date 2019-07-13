@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array["Susan", "Renee", "La Roca", "Sims"]
+  Array["Susan", "Renee", "La Roca", "Sims"]
   # four_items["Susan", "Renee", "La Roca", "Sims"]
 end
 
